@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Optus Technical Evaluation</string>
+    <string name="scenario_one">Scenario 1</string>
+    <string name="scenario_two">Scenario 2</string>
+    <string name="text_1">TextView 1</string>
+    <string name="text_2">TextView 2</string>
+    <string name="text_3">TextView 3</string>
+    <string name="button_red">Red</string>
+    <string name="button_blue">Blue</string>
+    <string name="button_green">Green</string>
+    <string name="section_format">Viewpager page: %1$d</string>
+    <string name="tab_name">Item %1$d</string>
+    <string name="fragment_click">Fragment %1$d clicked</string>
+    <string name="default_tab_desc">Click on a tab to change me!</string>
+    <string name="navigation_call_failed">There was an error handling the request</string>
+    <string name="transport_desc">Mode of transport:</string>
+    <string name="navigate_desc">Navigate</string>
+    <string name="geo_string">geo:%1$f,%2$f</string>
+</resources>
